@@ -1,10 +1,16 @@
 _repo: Lady-Jane-Grey-and-Her-Times_51057
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51057-h/images/cover.jpg
 creator:
   author:
     agent_name: Taylor, Ida Ashworth
     gutenberg_agent_id: '46219'
     url: http://www.gutenberg.org/2009/agents/46219
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51057#Lady-Jane-Grey-and-Her-Times
 gutenberg_issued: '2016-01-27'
 gutenberg_type: Text
 identifiers:
